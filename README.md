@@ -26,7 +26,6 @@ Docker is a containerization platform that allows developers to package applicat
 ### Windows
 ```powershell
 # Download Docker Desktop from official website
-# https://www.docker.com/products/docker-desktop/
 
 # Verify installation
 docker --version
